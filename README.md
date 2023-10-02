@@ -15,10 +15,15 @@ Message me if you need help or want to send some ideas for me, it would be an ho
 
 ## This is me arround de internet 🌎
 
-**Here some of my social**
-<div style="display: inline_block">
+<div align="center">
+  
+ **Here some of my social** 
+</div>
+<div align="center" style="display: inline_block">
   <a href="https://www.instagram.com/dixx.m4rquinhos/" target="_blank"><img align="center" alt="html5" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="mesqmamjr@gmail.com" target="_blank"><img align="center" alt="html5" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UCAyrUZSHU-lDl-SpzmFRiCw" target="_blank"><img align="center" alt="html5" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.twitch.tv/marcosjr1307" target="_blank"><img align="center" alt="html5" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="mailto:mesqmamjr@gmail.com" target="_blank"><img align="center" alt="html5" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
 
