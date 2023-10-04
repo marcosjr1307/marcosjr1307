@@ -17,8 +17,8 @@ Message me if you need help or want to send some ideas for me, it would be an ho
 
 <div align="center" style="display: inline_block" >
 <a href="https://github.com/marcosjr1307" target="_blank">
-<img heigh="400" src="https://github-readme-stats.vercel.app/api?username=marcosjr1307&show_icons=true&theme=dracula"/>
-<img width="417" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosjr1307&layout=compact&theme=dracula"/>
+<img width="430" src="https://github-readme-stats.vercel.app/api?username=marcosjr1307&show_icons=true&theme=dracula"/>
+<img width="385" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosjr1307&layout=compact&theme=dracula"/>
 </div>
 
 <br/>
