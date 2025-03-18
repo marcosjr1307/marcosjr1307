@@ -9,7 +9,8 @@
 **About me** <br/>
 Hello guys, welcome to my GitHub💻 <br/>
 I'm just a developer who love learning new programming languages!👨🏻‍💻<br/> 
-I'm junior system developer at Cotil-Unicamp.🎒 <br/>
+I'm junior system developer at Cotil-Unicamp.🎒 (2022-2024) <br/>
+I'm freshman in the computer science course at UNESP RC. 📓 (2025-2028) <br/>
 I always post some projects that I do, maybe they can help you! ♥️ <br/>
 Message me if you need help or want to send some ideas for me, it would be an honor! <br/>
 
@@ -23,7 +24,7 @@ Message me if you need help or want to send some ideas for me, it would be an ho
 
 <br/>
 
-## Technologies I use 🖥️
+## Technologies 🖥️
 
 <div align="center" style="display: inline_block">
   <a href="https://www.php.net/" target="_blank"><img heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
@@ -41,6 +42,10 @@ Message me if you need help or want to send some ideas for me, it would be an ho
   <a href="https://www.mysql.com/" target="_blank"><img heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /></a>
   <a href="https://www.arduino.cc/" target="_blank"><img heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" /></a>
   <a href="https://www.python.org/" target="_blank"><img heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /></a>
+  <a href="https://docs.flutter.dev/" target="_blank"><img heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" /></a>
+  <a href="https://dart.dev/" target="_blank"><img heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" /></a>
+          
+  
 </div>
 
 <br/><br/><br/>
