@@ -16,10 +16,11 @@ Message me if you need help or want to send some ideas for me, it would be an ho
 
 <br/>
 
-<div align="center" style="display: inline_block" >
-<a href="https://github.com/marcosjr1307" target="_blank">
-<img width="430" src="https://github-readme-stats.vercel.app/api?username=marcosjr1307&show_icons=true&theme=dracula"/>
-<img width="385" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosjr1307&layout=compact&theme=dracula"/>
+<div align="center">
+  <a href="https://github.com/marcosjr1307">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosjr1307&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosjr1307&layout=compact&theme=dracula"/>
+  </a>
 </div>
 
 <br/>
@@ -27,14 +28,12 @@ Message me if you need help or want to send some ideas for me, it would be an ho
 ## Technologies 🖥️
 
 <div align="center" style="display: inline_block">
-  <a href="https://www.php.net/" target="_blank"><img heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
-</a>
-  <a href="https://www.w3.org/html/" target="_blank"><img heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-</a>
+  <a href="https://www.php.net/" target="_blank"><img heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /></a>
   <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank"><img heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /></a>
   <a href="https://www.java.com/pt-BR/" target="_blank"><img heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /></a>
   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"><img heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></a>
-  <a href="https://learn.microsoft.com/pt-br/cpp/c-language/?view=msvc-170" target="_blank"><img heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" /></a>
+  <a href="https://learn.microsoft.com/pt-br/cpp/c-language/?view=msvc-170" target="_blank"><img heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /></a>         
   <a href="https://learn.microsoft.com/pt-br/cpp/?view=msvc-170" target="_blank"><img heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" /></a>
   <a href="https://cplusplus.com/" target="_blank"><img heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" /></a>
   <a href="https://getbootstrap.com/" target="_blank"><img heigh="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" /></a>
