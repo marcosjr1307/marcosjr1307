@@ -10,7 +10,7 @@
 Hello guys, welcome to my GitHub💻 <br/>
 I'm just a developer who love learning new programming languages!👨🏻‍💻<br/> 
 I'm junior system developer at Cotil-Unicamp.🎒 (2022-2024) <br/>
-I'm freshman in the computer science course at UNESP RC. 📓 (2025-2028) <br/>
+I'm sophomore in the computer science course at UNESP RC. 📓 (2025-2028) <br/>
 I always post some projects that I do, maybe they can help you! ♥️ <br/>
 Message me if you need help or want to send some ideas for me, it would be an honor! <br/>
 
